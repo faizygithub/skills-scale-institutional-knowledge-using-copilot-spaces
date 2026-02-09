@@ -23,8 +23,10 @@ Our shared responsibility model ensures clear ownership while fostering collabor
 | **Project Manager** | Coordinates delivery, schedules, risks, and communications | On-time delivery, minimize escalations, maintain transparency |
 | **Product Manager** | Defines outcomes, prioritizes backlog, measures success | Maximize customer value, data-driven decisions, product-market fit |
 | **Developers** | Implement features, collaborate on design and testing | Deliver reliable code, reduce cycle time, maintain quality |
-| **QA/Testing** | Validate quality and acceptance criteria | Ensure quality assurance, prevent regressions |
-| **Stakeholders** | Provide inputs, approvals, and alignment | Maintain visibility, ensure business alignment |
+| **QA Engineers** | Validate quality and acceptance criteria | Ensure quality assurance, prevent regressions, continuous quality feedback |
+| **Engineering Leads** | Provide technical direction, architecture, and mentorship | Maintain technical standards, enable team productivity, manage technical debt |
+| **Designers/UX** | Focus on user experience, usability, and design systems | Deliver intuitive experiences, reduce friction, maintain consistency |
+| **Stakeholders/Sponsors** | Provide business direction, funding, and strategic alignment | Maximize business value, ensure strategic alignment, maintain visibility |
 
 For detailed role definitions, personas, and responsibilities, see [Roles and Personas](octoacme-roles-and-personas.md).
 
@@ -155,6 +157,8 @@ Every project produces standard artifacts that enable transparency and repeatabi
 - **Definition of Done**: Quality standards for completion
 - **Release Plan**: Timeline and milestone roadmap
 - **Retrospective Notes**: Lessons learned and action items
+- **[Role Responsibility Matrix (RACI)](role-responsibility-matrix-template.md)**: Clarifies accountability across all project activities
+- **[Sprint Planning Checklist](sprint-planning-checklist.md)**: Comprehensive guide for effective sprint planning sessions
 
 ## Complete Documentation Index
 
@@ -169,6 +173,10 @@ Every project produces standard artifacts that enable transparency and repeatabi
 
 ### Supporting Documents
 8. **[Roles and Personas](octoacme-roles-and-personas.md)** - Detailed role definitions, responsibilities, and team personas
+
+### Templates & Checklists
+9. **[Role Responsibility Matrix (RACI)](role-responsibility-matrix-template.md)** - Template for defining clear accountability across project activities
+10. **[Sprint Planning Checklist](sprint-planning-checklist.md)** - Comprehensive checklist for effective sprint planning with all roles
 
 ## Getting Started
 
