@@ -23,7 +23,7 @@ Our shared responsibility model ensures clear ownership while fostering collabor
 | **Project Manager** | Coordinates delivery, schedules, risks, and communications | On-time delivery, minimize escalations, maintain transparency |
 | **Product Manager** | Defines outcomes, prioritizes backlog, measures success | Maximize customer value, data-driven decisions, product-market fit |
 | **Developers** | Implement features, collaborate on design and testing | Deliver reliable code, reduce cycle time, maintain quality |
-| **QA/Testing Engineers** | Validate quality and acceptance criteria | Ensure quality assurance, prevent regressions, continuous quality feedback |
+| **QA Engineers** | Validate quality and acceptance criteria | Ensure quality assurance, prevent regressions, continuous quality feedback |
 | **Engineering Leads** | Provide technical direction, architecture, and mentorship | Maintain technical standards, enable team productivity, manage technical debt |
 | **Designers/UX** | Focus on user experience, usability, and design systems | Deliver intuitive experiences, reduce friction, maintain consistency |
 | **Stakeholders/Sponsors** | Provide business direction, funding, and strategic alignment | Maximize business value, ensure strategic alignment, maintain visibility |

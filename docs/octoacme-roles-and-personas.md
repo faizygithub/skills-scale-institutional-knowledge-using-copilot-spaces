@@ -75,10 +75,10 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
-## QA/Testing Engineers
+## QA Engineers
 
 ### Role Summary
-QA/Testing Engineers validate quality and acceptance criteria throughout development. They design and execute test plans, identify defects, and ensure software meets functional and non-functional requirements before release.
+QA Engineers validate quality and acceptance criteria throughout development. They design and execute test plans, identify defects, and ensure software meets functional and non-functional requirements before release.
 
 ### Responsibilities
 - Design comprehensive test plans and test cases

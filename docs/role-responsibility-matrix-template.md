@@ -33,7 +33,7 @@ For each activity, assign one of these codes to each role:
 | Prioritize backlog | C | A | C | I | C | I | C |
 | Define acceptance criteria | C | A | C | C | C | I | C |
 | Estimate effort/scope | C | C | R | C | A | I | I |
-| Define Definition of Done | R | C | C | A | A | I | I |
+| Define Definition of Done | R | C | C | C | A | I | I |
 | Create test strategy | C | C | C | R | C | I | I |
 | Design technical architecture | I | I | C | I | A | I | I |
 | Design user experience | I | C | I | I | I | I | A |
@@ -111,4 +111,4 @@ For each activity, assign one of these codes to each role:
 
 ---
 
-**Questions?** Contact your Project Manager or review the [Roles and Personas](octoacme-roles-and-personas.md) guide for detailed role definitions.
+**Questions?** Contact your team lead or project coordinator, or review the [Roles and Personas](octoacme-roles-and-personas.md) guide for detailed role definitions.
